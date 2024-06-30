@@ -1,7 +1,7 @@
 {
   "name": "css-reference-finder",
-  "version": "1.0.1",
-  "description": "A Node.js script to find CSS references in HTML files.",
+  "version": "1.0.2",
+  "description": "A Node.js script to find CSS references in HTML/.cshtml or * files.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
